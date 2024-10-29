@@ -14,7 +14,7 @@ tokenizers = "^0.19.1"
 pyinstaller = "^6.6.0"
 llama-index = "^0.10.46"
 ragas = "^0.1.9"
-langchain = {extras = ["openai"], version = "^0.2.10"}
+langchain = {extras = ["openai"], version = "^0.3.0"}
 
 
 [build-system]
